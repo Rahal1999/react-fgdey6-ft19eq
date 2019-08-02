@@ -1,0 +1,39 @@
+{
+  "name": "6nwxf3.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "@progress/kendo-react-dateinputs": "3.2.2",
+    "@progress/kendo-react-intl": "3.2.2",
+    "@progress/kendo-react-tooltip": "3.2.2",
+    "@progress/kendo-react-common": "3.2.2",
+    "@progress/kendo-react-popup": "3.2.2",
+    "@progress/kendo-date-math": "1.4.1",
+    "@progress/kendo-react-dropdowns": "3.2.2",
+    "prop-types": "15.7.2",
+    "react-transition-group": "4.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
